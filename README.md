@@ -4,7 +4,9 @@
 This project contains an interactive Ecommerce Dashboard built using Power BI. The dashboard provides valuable insights into sales, revenue, customer behavior, and product performance, making it easier to monitor business growth and make data-driven decisions.
 
 1.Features
+
 📈 Sales Overview – Track total revenue, profit, and order trends.
+
 🛒 Product Analysis – Identify top-selling products and categories.
 👥 Customer Insights – Understand customer demographics and purchase behavior.
 🌍 Regional Performance – Visualize sales distribution across different locations.
