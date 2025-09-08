@@ -38,4 +38,5 @@ This dashboard is based on publicly available datasets from Kaggle:
 Ecommerce Dataset
 
 6.Screenshot
-1[dashboard preview](
+
+![Dashborad Preview](https://github.com/Suhas9797/ecommerce-dashboard/blob/main/screenshot%20of%20the%20dashboard.png)
